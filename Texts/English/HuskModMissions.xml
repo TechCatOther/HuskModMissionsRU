@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+    <!-- hypeskillhuskthresherswarm -->
+    <missionname.hypeskillhuskthresherswarm>Terminate a Husk Swarm</missionname.hypeskillhuskthresherswarm>
+    <missiondescription.hypeskillhuskthresherswarm>A swarm of husk threshers has been terrorizing vessels traveling between [location1] and [location2]. A reward of [reward] credits has been promised to any crew who can neutralize it.</missiondescription.hypeskillhuskthresherswarm>
+    <missionsonarlabel.hypeskillhuskthresherswarm>Husk Thresher Swarm</missionsonarlabel.hypeskillhuskthresherswarm>
+    <missionsuccess.hypeskillhuskthresherswarm>The swarm has been terminated.</missionsuccess.hypeskillhuskthresherswarm>
+    <missionheader0.hypeskillhuskthresherswarm>Target terminated</missionheader0.hypeskillhuskthresherswarm>
+    <missionmessage0.hypeskillhuskthresherswarm>The husk swarm is terminated. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillhuskthresherswarm>
+    <!-- hypeskillhuskmoloch -->
+    <missionname.hypeskillhuskmoloch>Killing a Husk Moloch</missionname.hypeskillhuskmoloch>
+    <missiondescription.hypeskillhuskmoloch>A strange Moloch has been terrorizing vessels traveling between [location1] and [location2]. A reward of [reward] credits has been promised to those who kill the creature.</missiondescription.hypeskillhuskmoloch>
+    <missionsonarlabel.hypeskillhuskmoloch>Husk Moloch</missionsonarlabel.hypeskillhuskmoloch>
+    <missionsuccess.hypeskillhuskmoloch>The Husk Moloch has been killed.</missionsuccess.hypeskillhuskmoloch>
+    <missionheader0.hypeskillhuskmoloch>Target terminated</missionheader0.hypeskillhuskmoloch>
+    <missionmessage0.hypeskillhuskmoloch>The husk moloch is dead. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillhuskmoloch>
+    <!-- hypeskillhuskhammerhead -->
+    <missionname.hypeskillhuskhammerhead>Killing a Husk Hammerhead</missionname.hypeskillhuskhammerhead>
+    <missiondescription.hypeskillhuskhammerhead>A strange Hammerhead has been terrorizing vessels traveling between [location1] and [location2]. A reward of [reward] credits has been promised to those who kill the creature.</missiondescription.hypeskillhuskhammerhead>
+    <missionsonarlabel.hypeskillhuskhammerhead>Husk Hammerhead</missionsonarlabel.hypeskillhuskhammerhead>
+    <missionsuccess.hypeskillhuskhammerhead>The Husk Hammerhead has been killed.</missionsuccess.hypeskillhuskhammerhead>
+    <missionheader0.hypeskillhuskhammerhead>Target terminated</missionheader0.hypeskillhuskhammerhead>
+    <missionmessage0.hypeskillhuskhammerhead>The Husk Hammerhead is dead. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillhuskhammerhead>
+    <!-- hypeskillhuskgoldhammerhead -->
+    <missionname.hypeskillhuskgoldhammerhead>Killing a Husk Hammerhead</missionname.hypeskillhuskgoldhammerhead>
+    <missiondescription.hypeskillhuskgoldhammerhead>A strange Hammerhead has been terrorizing vessels traveling between [location1] and [location2]. A reward of [reward] credits has been promised to those who kill the creature.</missiondescription.hypeskillhuskgoldhammerhead>
+    <missionsonarlabel.hypeskillhuskgoldhammerhead>Hammerhead</missionsonarlabel.hypeskillhuskgoldhammerhead>
+    <missionsuccess.hypeskillhuskgoldhammerhead>The Husk Hammerhead has been killed.</missionsuccess.hypeskillhuskgoldhammerhead>
+    <missionheader0.hypeskillhuskgoldhammerhead>Target terminated</missionheader0.hypeskillhuskgoldhammerhead>
+    <missionmessage0.hypeskillhuskgoldhammerhead>The Husk Hammerhead is dead. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillhuskgoldhammerhead>
+    <!-- hypeskillhuskmatriarch1 -->
+    <missionname.hypeskillhuskmatriarch1>Killing a Husk Matriarch</missionname.hypeskillhuskmatriarch1>
+    <missiondescription.hypeskillhuskmatriarch1>Eliminate the Husk Hammerhead Matriarch and her minions.</missiondescription.hypeskillhuskmatriarch1>
+    <missionsonarlabel.hypeskillhuskmatriarch1>Husk Matriarch</missionsonarlabel.hypeskillhuskmatriarch1>
+    <missionsuccess.hypeskillhuskmatriarch1>The Husk Matriarch has been eliminated.</missionsuccess.hypeskillhuskmatriarch1>
+    <missionheader0.hypeskillhuskmatriarch1>Target terminated</missionheader0.hypeskillhuskmatriarch1>
+    <missionmessage0.hypeskillhuskmatriarch1>The Husk Matriarch is eliminated. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillhuskmatriarch1>
+    <!-- hypeskillcrawlerhuskswarm1 -->
+    <missionname.hypeskillcrawlerhuskswarm1>Terminate a Husk Swarm</missionname.hypeskillcrawlerhuskswarm1>
+    <missiondescription.hypeskillcrawlerhuskswarm1>A swarm of husk crawlers has been terrorizing vessels traveling between [location1] and [location2]. A reward of [reward] credits has been promised to any crew who can neutralize it.</missiondescription.hypeskillcrawlerhuskswarm1>
+    <missionsonarlabel.hypeskillcrawlerhuskswarm1>Husk Crawler Swarm</missionsonarlabel.hypeskillcrawlerhuskswarm1>
+    <missionsuccess.hypeskillcrawlerhuskswarm1>The swarm has been terminated.</missionsuccess.hypeskillcrawlerhuskswarm1>
+    <missionheader0.hypeskillcrawlerhuskswarm1>Target terminated</missionheader0.hypeskillcrawlerhuskswarm1>
+    <missionmessage0.hypeskillcrawlerhuskswarm1>The husk swarm is terminated. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillcrawlerhuskswarm1>
+    <!-- hypeskillmudraptorhuskswarm1 -->
+    <missionname.hypeskillmudraptorhuskswarm1>Terminate a Husk Swarm</missionname.hypeskillmudraptorhuskswarm1>
+    <missiondescription.hypeskillmudraptorhuskswarm1>A swarm of husk mudraptors has been terrorizing vessels traveling between [location1] and [location2]. A reward of [reward] credits has been promised to any crew who can neutralize it.</missiondescription.hypeskillmudraptorhuskswarm1>
+    <missionsonarlabel.hypeskillmudraptorhuskswarm1>Husk Mudraptor Swarm</missionsonarlabel.hypeskillmudraptorhuskswarm1>
+    <missionsuccess.hypeskillmudraptorhuskswarm1>The swarm has been terminated.</missionsuccess.hypeskillmudraptorhuskswarm1>
+    <missionheader0.hypeskillmudraptorhuskswarm1>Target terminated</missionheader0.hypeskillmudraptorhuskswarm1>
+    <missionmessage0.hypeskillmudraptorhuskswarm1>The husk swarm is terminated. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillmudraptorhuskswarm1>
+    <!-- hypeskillhumanhuskswarm1 -->
+    <missionname.hypeskillhumanhuskswarm1>Terminate a Husk Swarm</missionname.hypeskillhumanhuskswarm1>
+    <missiondescription.hypeskillhumanhuskswarm1>A swarm of husk humanoids has been terrorizing vessels traveling between [location1] and [location2]. A reward of [reward] credits has been promised to any crew who can neutralize it.</missiondescription.hypeskillhumanhuskswarm1>
+    <missionsonarlabel.hypeskillhumanhuskswarm1>Husk Swarm</missionsonarlabel.hypeskillhumanhuskswarm1>
+    <missionsuccess.hypeskillhumanhuskswarm1>The swarm has been terminated.</missionsuccess.hypeskillhumanhuskswarm1>
+    <missionheader0.hypeskillhumanhuskswarm1>Target terminated</missionheader0.hypeskillhumanhuskswarm1>
+    <missionmessage0.hypeskillhumanhuskswarm1>The husk swarm is terminated. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillhumanhuskswarm1>
+    <!-- hypeskillhuskwatcher -->
+    <missionname.hypeskillhuskwatcher>Killing a Husk Watcher</missionname.hypeskillhuskwatcher>
+    <missiondescription.hypeskillhuskwatcher>A strange Watcher has been terrorizing vessels traveling between [location1] and [location2]. A reward of [reward] credits has been promised to those who kill the creature.</missiondescription.hypeskillhuskwatcher>
+    <missionsonarlabel.hypeskillhuskwatcher>Husk Watcher</missionsonarlabel.hypeskillhuskwatcher>
+    <missionsuccess.hypeskillhuskwatcher>The Husk Watcher has been killed.</missionsuccess.hypeskillhuskwatcher>
+    <missionheader0.hypeskillhuskwatcher>Target terminated</missionheader0.hypeskillhuskwatcher>
+    <missionmessage0.hypeskillhuskwatcher>The husk watcher is dead. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillhuskwatcher>
+    <!-- hypeskillhuskcharybdis -->
+    <missionname.hypeskillhuskcharybdis>Abyss Hunter</missionname.hypeskillhuskcharybdis>
+    <missiondescription.hypeskillhuskcharybdis>Roaring has been heard while traveling between [location1] and [location2] and many transport subs have gone missing. A reward of [reward] credits has been promised to those who kill the creature.</missiondescription.hypeskillhuskcharybdis>
+    <missionsonarlabel.hypeskillhuskcharybdis>Abyss Creature</missionsonarlabel.hypeskillhuskcharybdis>
+    <missionsuccess.hypeskillhuskcharybdis>The Husk Charybdis has been killed.</missionsuccess.hypeskillhuskcharybdis>
+    <missionheader0.hypeskillhuskcharybdis>Target terminated</missionheader0.hypeskillhuskcharybdis>
+    <missionmessage0.hypeskillhuskcharybdis>The Husk Charybdis is dead. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillhuskcharybdis>
+    <!-- hypeskillhuskendworm -->
+    <missionname.hypeskillhuskendworm>Abyss Hunter</missionname.hypeskillhuskendworm>
+    <missiondescription.hypeskillhuskendworm>Roaring has been heard while traveling between [location1] and [location2] and many transport subs have gone missing. A reward of [reward] credits has been promised to those who kill the creature.</missiondescription.hypeskillhuskendworm>
+    <missionsonarlabel.hypeskillhuskendworm>Abyss Creature</missionsonarlabel.hypeskillhuskendworm>
+    <missionsuccess.hypeskillhuskendworm>The Husk Endworm has been killed.</missionsuccess.hypeskillhuskendworm>
+    <missionheader0.hypeskillhuskendworm>Target terminated</missionheader0.hypeskillhuskendworm>
+    <missionmessage0.hypeskillhuskendworm>The Husk Endworm is dead. Navigate the submarine out of the cavern to claim the reward.</missionmessage0.hypeskillhuskendworm>
+</infotexts>

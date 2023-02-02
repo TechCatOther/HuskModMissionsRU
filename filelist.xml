@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Husk Mod Missions RU" corepackage="false" modversion="1.0" gameversion="0.20.16.1">
+  <Text file="%ModDir%/Texts/English/HuskModMissions.xml" />
+  <Text file="%ModDir%/Texts/Russian/HuskModMissions.xml" />
+</contentpackage>
